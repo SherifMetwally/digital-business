@@ -1,6 +1,6 @@
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import React from 'react'
-import { faEnvelope , faLinkedIn } from '@fortawesome/free-solid-svg-icons'
+import { faEnvelope  } from '@fortawesome/free-solid-svg-icons'
 import {faLinkedin} from '@fortawesome/free-brands-svg-icons'
 
 
